@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package": "me.cyberdie22.noplayingminecraft.mixins",
+  "compatibilityLevel": "JAVA_16",
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "mixins": []
+}
